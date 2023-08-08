@@ -1,0 +1,2 @@
+#!/bin/bash
+echo {{a..n},p,r,s,t,u,v,w,x,y,}{a..z} | tr " " "\n" | sort
